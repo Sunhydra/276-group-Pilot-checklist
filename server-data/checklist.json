@@ -1,0 +1,34 @@
+[
+  {
+    "id":1,
+    "name": "Landowner/Flight Area Permission Forms On-Hand"
+  },
+  {
+    "id":2,
+    "name":"Pilot License On-Hand"
+  },
+  {
+    "id":3,
+    "name":"Drone Registraton Certifcate On-Hand - FAA / TC"
+  },
+  {
+    "id":4,
+    "name":"Insurance On-Hand"
+  },
+  {
+    "id":5,
+    "name":"FLHA and Tailgate Completed"
+  },
+  {
+    "id":6,
+    "name":"GPS Coordinates (Lat/Long) Visible for Reference"
+  },
+  {
+    "id":7,
+    "name":"Emergency Services Contact Information Visible"
+  },
+  {
+    "id":8,
+    "name":"Air Traffic Control and Aerodrome Contact Information Visible"
+  }
+]
